@@ -1,0 +1,37 @@
+This repository consists of programs and supporting files for File I/O Assignment of C++.
+
+*Program 1:*
+Program - Count the number of time the word 'the' is present in the file.
+Code file - program1.cpp
+Supporting file - file.txt
+
+
+*Program 2:*
+Program - Count the number of words that has 'a' in them.
+Code file - program2.cpp
+Supporting file - file.txt
+
+
+*Program 3:*
+Program - Count the number of words that start with 'e'.
+Code file - program3.cpp
+Supporting file - file.txt
+
+
+*Program 4:*
+Program - Count the number of words that end with 's'.
+Code file - program4.cpp
+Supporting file - file.txt
+
+
+*Program 5:*
+Program - Write a cpp program that shows a menu:
+	  1: Enter Student Detail
+	  2: Find Student
+
+If the user selects 1: then it will ask for some details like: ID, student name, branch, location. Save all these information in the file. Each student's details will be stored in one line.
+
+If the user selects 2: ask for the ID from the user that is needed to be searched. Then look for this id in the file (database). If it is available then return all the information about the particular student. If the ID is not available, then print some error message.
+	  
+Code file - program5.cpp
+Supporting file - database.txt
